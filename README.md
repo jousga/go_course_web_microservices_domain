@@ -1,5 +1,4 @@
 # go_course_web Microservice: Domain
-URL del curso: https://www.udemy.com/course-dashboard-redirect/?course_id=4809678
 
 URL del curso: https://www.udemy.com/course-dashboard-redirect/?course_id=4809678
 
