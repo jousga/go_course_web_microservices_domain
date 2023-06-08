@@ -1,7 +1,9 @@
 # go_course_web Microservice: Domain
 URL del curso: https://www.udemy.com/course-dashboard-redirect/?course_id=4809678
 
-Este proyecto es la transformación del proyecto creado en el repositorio [go_course_web](https://github.com/jousga/go_course_web) pero transformándolo a microservicios
+URL del curso: https://www.udemy.com/course-dashboard-redirect/?course_id=4809678
+
+Este proyecto forma parte de la transformación del proyecto creado en el repositorio [go_course_web](https://github.com/jousga/go_course_web) pero transformándolo a microservicios
 
 El conjunto de microservicios que forman parte de este proyecto son:
 1. Domain: https://github.com/jousga/go_course_web_microservices_domain
@@ -9,6 +11,7 @@ El conjunto de microservicios que forman parte de este proyecto son:
 3. User: https://github.com/jousga/go_course_web_microservices_user
 4. Course: https://github.com/jousga/go_course_web_microservices_course
 5. Enrollment: https://github.com/jousga/go_course_web_microservices_enrollment
+6. Lib Response: https://github.com/jousga/go_course_web_microservices_lib_response
 
 Para limpiar el proyecto y descargar las dependencias tenemos que usar el comando de GO:
 
